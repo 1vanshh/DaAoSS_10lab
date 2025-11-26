@@ -56,4 +56,4 @@
 
 ## Диаграмма:
 
-![](diagrams/Sequence.jpg)
+![](diagrams/SequenceDiagram.jpg)
