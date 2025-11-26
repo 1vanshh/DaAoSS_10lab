@@ -235,3 +235,14 @@ workload*, *View employment*).
 ## Диаграмма:
 
 ![](diagrams/StateMachineDiagram.jpg)
+
+# Reverse Engineering  
+**Шаг 7. Обратный инжиниринг и синхронизация модели с исходным кодом**  
+
+## Результат
+
+В результате обратного инжиниринга получена обновлённая диаграмма классов,  
+которая однозначно отражает структуру реализованного кода и остаётся согласованной  
+с другими UML-диаграммами (Use Case, Sequence, Activity/State).
+
+![](diagrams/ReverseEngineering.jpg)
