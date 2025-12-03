@@ -235,7 +235,7 @@ workload*, *View employment*).
 ![](diagrams/StateMachineDiagram.jpg)
 
 # Reverse Engineering  
-**Шаг 7. Обратный инжиниринг и синхронизация модели с исходным кодом**  
+**Обратный инжиниринг и синхронизация модели с исходным кодом**  
 
 ## Результат
 
