@@ -122,7 +122,7 @@
 ## Логика взаимодействия:
 
 1. **Декан** выбирает сотрудника и кафедру, после чего инициирует сценарий  
-   `assignResearcherToInstitute(deanId, researcherId, instituteId)`.
+   `assignResearcherToInstitute(researcherId, instituteId)`.
 
 2. Объект **University**:
    - определяет факультет, которым управляет декан (`getFacultyByDean`);
